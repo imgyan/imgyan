@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **inex.gyan@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1QOB8BmbeJqOq9co0tK568AlhOta7Iuzy/view?usp=share_link)]
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1AUWAe-sYdsdZf3o1PXiFAWQ8dmk6JsBr/view?usp=share_link)]
 
 - ⚡ Fun fact **I am Diligent**
 
