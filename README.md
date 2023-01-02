@@ -26,6 +26,9 @@
 <!-- <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div> -->
+
+ <a href="https://github.com/imgyan/github-readme-stats"><img alt="imgyan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgyan&show_icons=true&locale=en&layout=compact" alt="imgyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imgyan&show_icons=true&locale=en" alt="imgyan" /></p>
