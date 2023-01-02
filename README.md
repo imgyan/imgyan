@@ -27,11 +27,9 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div> -->
 
-   <a href="https://github.com/alka1520/github-readme-stats"><img alt="alka1520 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alka1520&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/imgyan/github-readme-stats"><img alt="imgyan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" /></a>
    
-   <a href="https://github.com/alka1520/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alka1520 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alka1520&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
+   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgyan&show_icons=true&locale=en&layout=compact" alt="imgyan" /></p>
 
