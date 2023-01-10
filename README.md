@@ -29,6 +29,9 @@
 
 <h2 align="left">📊 My Github Stats</h2>
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=imgyan&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgyan&show_icons=true&locale=en&layout=compact" alt="imgyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imgyan&show_icons=true&locale=en" alt="imgyan" /></p>
