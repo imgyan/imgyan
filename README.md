@@ -29,7 +29,7 @@
 
 <h2 align="left">📊 My Github Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgyan&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgyan&langs_count=1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgyan&show_icons=true&locale=en&layout=compact" alt="imgyan" /></p>
